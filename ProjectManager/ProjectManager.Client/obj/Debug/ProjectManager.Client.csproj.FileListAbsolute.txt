@@ -1,0 +1,29 @@
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\bin\Debug\ProjectManager.Client.exe.config
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\bin\Debug\ProjectManager.Client.exe
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\bin\Debug\ProjectManager.Client.pdb
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.csprojResolveAssemblyReference.cache
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.MainForm.resources
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.Properties.Resources.resources
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.csproj.GenerateResource.Cache
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.exe
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.pdb
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\bin\Debug\ProjectManager.DAL.dll
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\bin\Debug\ProjectManager.DAL.pdb
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.ProjectForm.resources
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.TaskForm.resources
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\bin\Debug\ProjectManager.Client.exe.config
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.exe
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.pdb
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\bin\Debug\ProjectManager.Client.exe
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\bin\Debug\ProjectManager.Client.pdb
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\bin\Debug\ProjectManager.DAL.dll
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\bin\Debug\ProjectManager.DAL.pdb
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.csprojResolveAssemblyReference.cache
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.MainForm.resources
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.ProjectForm.resources
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.Properties.Resources.resources
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.TaskForm.resources
+P:\2016-2017\C#\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.csproj.GenerateResource.Cache
+E:\2017-2018\ProjectManager\ProjectManager.Client\bin\Debug\ProjectManager.Client.exe.config
+E:\2017-2018\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.exe
+E:\2017-2018\ProjectManager\ProjectManager.Client\obj\Debug\ProjectManager.Client.pdb

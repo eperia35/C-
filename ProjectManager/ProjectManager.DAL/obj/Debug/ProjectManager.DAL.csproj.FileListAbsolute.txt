@@ -1,0 +1,10 @@
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.dll
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.pdb
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.csprojResolveAssemblyReference.cache
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.dll
+c:\users\bdague\documents\visual studio 2015\Projects\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.pdb
+P:\2016-2017\C#\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.dll
+P:\2016-2017\C#\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.pdb
+P:\2016-2017\C#\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.csprojResolveAssemblyReference.cache
+P:\2016-2017\C#\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.dll
+P:\2016-2017\C#\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.pdb
